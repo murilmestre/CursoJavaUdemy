@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96c2491c-2c35-4797-99e3-8a5cec6379e6" name="Changes" comment="&quot;Criando ma aplicacao para calculo e comparacao de triangulos, nesse exemplo usando POO, aprendendo a criacao de classes e também a criacao de metodos.&quot;">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/areaDoTrianguloUsandoPOO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aplicattion/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Triangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="96c2491c-2c35-4797-99e3-8a5cec6379e6" name="Changes" comment="&quot;Criando ma aplicacao para calculo e comparacao de triangulos, nesse exemplo usando POO, aprendendo a criacao de classes e também a criacao de metodos.&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +46,14 @@
       <option name="presentableId" value="Default" />
       <updated>1676648107002</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Criando ma aplicacao para calculo e comparacao de triangulos, nesse exemplo usando POO, aprendendo a criacao de classes e também a criacao de metodos.&quot;">
+      <created>1676650323553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676650323554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
